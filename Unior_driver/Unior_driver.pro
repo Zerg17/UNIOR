@@ -16,4 +16,6 @@ HEADERS += \
     libusbcontrol.h \
     sructList.h \
     rccontrol.h \
-    motcontrol.h
+    motcontrol.h \
+    matrixcontrol.h \
+    ros_con.h
