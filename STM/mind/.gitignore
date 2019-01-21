@@ -1,9 +1,0 @@
-.pio
-.pioenvs
-.piolibdeps
-.vscode
-.gitignore
-.travis.yml
-lib/
-test/
-platformio.ini
