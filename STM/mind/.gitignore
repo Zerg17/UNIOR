@@ -5,5 +5,5 @@
 .gitignore
 .travis.yml
 lib
-test
+test/
 platformio.ini
