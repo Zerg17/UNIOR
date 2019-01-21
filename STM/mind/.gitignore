@@ -4,5 +4,6 @@
 .vscode
 .gitignore
 .travis.yml
-.lib
-.test
+lib
+test
+platformio.ini
