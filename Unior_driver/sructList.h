@@ -15,7 +15,7 @@
 #include <ros/ros.h>
 #include <mutex>
 
-std::mutex RC_mutex;
+std::mutex RC_mutex;;;;
 
 struct _head{
     uint32_t time;
