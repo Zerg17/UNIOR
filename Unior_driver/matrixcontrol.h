@@ -24,7 +24,7 @@ void readBmp(char* name){
     IMAGE BMP;
     FILE *img;
     char FN[255]={NULL};
-    char filename[31] ="/home/avrora/Stm_RC_ROS/";
+    char filename[31] ="/home/unior/emote/";
     strcat(FN,filename);
     strcat(FN,name);
     strcat(FN,".BMP");
